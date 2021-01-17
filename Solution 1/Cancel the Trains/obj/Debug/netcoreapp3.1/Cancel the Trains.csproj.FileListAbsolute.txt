@@ -1,0 +1,13 @@
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\bin\Debug\netcoreapp3.1\Cancel the Trains.exe
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\bin\Debug\netcoreapp3.1\Cancel the Trains.deps.json
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\bin\Debug\netcoreapp3.1\Cancel the Trains.runtimeconfig.json
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\bin\Debug\netcoreapp3.1\Cancel the Trains.runtimeconfig.dev.json
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\bin\Debug\netcoreapp3.1\Cancel the Trains.dll
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\bin\Debug\netcoreapp3.1\Cancel the Trains.pdb
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\obj\Debug\netcoreapp3.1\Cancel the Trains.AssemblyInfoInputs.cache
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\obj\Debug\netcoreapp3.1\Cancel the Trains.AssemblyInfo.cs
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\obj\Debug\netcoreapp3.1\Cancel the Trains.csproj.CoreCompileInputs.cache
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\obj\Debug\netcoreapp3.1\Cancel the Trains.dll
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\obj\Debug\netcoreapp3.1\Cancel the Trains.pdb
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\obj\Debug\netcoreapp3.1\Cancel the Trains.genruntimeconfig.cache
+G:\my practice repository\My-practice-repository\Solution 1\Cancel the Trains\obj\Debug\netcoreapp3.1\Cancel the Trains.csprojAssemblyReference.cache

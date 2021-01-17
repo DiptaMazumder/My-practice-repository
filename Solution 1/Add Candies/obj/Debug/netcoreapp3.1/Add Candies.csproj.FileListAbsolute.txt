@@ -1,0 +1,13 @@
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\bin\Debug\netcoreapp3.1\Add Candies.exe
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\bin\Debug\netcoreapp3.1\Add Candies.deps.json
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\bin\Debug\netcoreapp3.1\Add Candies.runtimeconfig.json
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\bin\Debug\netcoreapp3.1\Add Candies.runtimeconfig.dev.json
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\bin\Debug\netcoreapp3.1\Add Candies.dll
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\bin\Debug\netcoreapp3.1\Add Candies.pdb
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\obj\Debug\netcoreapp3.1\Add Candies.csprojAssemblyReference.cache
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\obj\Debug\netcoreapp3.1\Add Candies.AssemblyInfoInputs.cache
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\obj\Debug\netcoreapp3.1\Add Candies.AssemblyInfo.cs
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\obj\Debug\netcoreapp3.1\Add Candies.csproj.CoreCompileInputs.cache
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\obj\Debug\netcoreapp3.1\Add Candies.dll
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\obj\Debug\netcoreapp3.1\Add Candies.pdb
+G:\my practice repository\My-practice-repository\Solution 1\Add Candies\obj\Debug\netcoreapp3.1\Add Candies.genruntimeconfig.cache
