@@ -1,0 +1,13 @@
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\bin\Debug\netcoreapp3.1\class 4 practice.exe
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\bin\Debug\netcoreapp3.1\class 4 practice.deps.json
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\bin\Debug\netcoreapp3.1\class 4 practice.runtimeconfig.json
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\bin\Debug\netcoreapp3.1\class 4 practice.runtimeconfig.dev.json
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\bin\Debug\netcoreapp3.1\class 4 practice.dll
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\bin\Debug\netcoreapp3.1\class 4 practice.pdb
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\obj\Debug\netcoreapp3.1\class 4 practice.AssemblyInfoInputs.cache
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\obj\Debug\netcoreapp3.1\class 4 practice.AssemblyInfo.cs
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\obj\Debug\netcoreapp3.1\class 4 practice.csproj.CoreCompileInputs.cache
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\obj\Debug\netcoreapp3.1\class 4 practice.dll
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\obj\Debug\netcoreapp3.1\class 4 practice.pdb
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\obj\Debug\netcoreapp3.1\class 4 practice.genruntimeconfig.cache
+G:\my practice repository\My-practice-repository\Solution 1\class 4 practice\obj\Debug\netcoreapp3.1\class 4 practice.csprojAssemblyReference.cache

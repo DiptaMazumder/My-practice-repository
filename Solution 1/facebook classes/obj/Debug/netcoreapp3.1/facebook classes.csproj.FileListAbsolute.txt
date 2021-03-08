@@ -1,0 +1,13 @@
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\bin\Debug\netcoreapp3.1\facebook classes.exe
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\bin\Debug\netcoreapp3.1\facebook classes.deps.json
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\bin\Debug\netcoreapp3.1\facebook classes.runtimeconfig.json
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\bin\Debug\netcoreapp3.1\facebook classes.runtimeconfig.dev.json
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\bin\Debug\netcoreapp3.1\facebook classes.dll
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\bin\Debug\netcoreapp3.1\facebook classes.pdb
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\obj\Debug\netcoreapp3.1\facebook classes.csprojAssemblyReference.cache
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\obj\Debug\netcoreapp3.1\facebook classes.AssemblyInfoInputs.cache
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\obj\Debug\netcoreapp3.1\facebook classes.AssemblyInfo.cs
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\obj\Debug\netcoreapp3.1\facebook classes.csproj.CoreCompileInputs.cache
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\obj\Debug\netcoreapp3.1\facebook classes.dll
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\obj\Debug\netcoreapp3.1\facebook classes.pdb
+G:\my practice repository\My-practice-repository\Solution 1\facebook classes\obj\Debug\netcoreapp3.1\facebook classes.genruntimeconfig.cache

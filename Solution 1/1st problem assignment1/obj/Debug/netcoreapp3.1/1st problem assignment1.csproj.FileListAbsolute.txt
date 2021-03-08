@@ -1,0 +1,13 @@
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\bin\Debug\netcoreapp3.1\1st problem assignment1.exe
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\bin\Debug\netcoreapp3.1\1st problem assignment1.deps.json
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\bin\Debug\netcoreapp3.1\1st problem assignment1.runtimeconfig.json
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\bin\Debug\netcoreapp3.1\1st problem assignment1.runtimeconfig.dev.json
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\bin\Debug\netcoreapp3.1\1st problem assignment1.dll
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\bin\Debug\netcoreapp3.1\1st problem assignment1.pdb
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\obj\Debug\netcoreapp3.1\1st problem assignment1.csprojAssemblyReference.cache
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\obj\Debug\netcoreapp3.1\1st problem assignment1.AssemblyInfoInputs.cache
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\obj\Debug\netcoreapp3.1\1st problem assignment1.AssemblyInfo.cs
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\obj\Debug\netcoreapp3.1\1st problem assignment1.csproj.CoreCompileInputs.cache
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\obj\Debug\netcoreapp3.1\1st problem assignment1.dll
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\obj\Debug\netcoreapp3.1\1st problem assignment1.pdb
+G:\my practice repository\My-practice-repository\Solution 1\1st problem assignment1\obj\Debug\netcoreapp3.1\1st problem assignment1.genruntimeconfig.cache
