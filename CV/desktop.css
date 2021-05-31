@@ -1,0 +1,81 @@
+body{
+
+    background-color: rgba(250, 246, 246, 0.938);
+}
+.col-1{width:8.33%}
+.col-2{width: 16.66%}
+.col-3{width:25%}
+.col-4{width:33.33%}
+.col-5{width:41.66%}
+.col-6{width:50%}
+.col-7{width:58.33%}
+.col-8{width:66.66%}
+.col-9{width:75%}
+.col-10{width:83.33%}
+.col-11{width:91.66%}
+.col-12{width:100%}
+
+.navbar-menu{
+    flex-direction: row;
+    justify-content:flex-start;
+}
+
+.navbar-menu a{
+    background-color: rgba(255, 123, 0, 0.658) ;
+   color: rgba(128, 0, 32, 0.774);
+   
+}
+/*profile design starts here*/
+
+.profile-desc{
+    flex-direction: row;
+    justify-content:flex-start;
+}
+
+
+
+.profile-desc img{
+    background-color: rgba(255, 123, 0, 0.658) ;
+   height:250px;
+   width:200px;
+   
+   
+}
+
+.profile-desc p{
+     text-align: center;
+     width:58%;
+     padding:8% 1%;
+}
+/*profile design ends here*/
+/*aboutme*/
+.aboutme .card{
+   
+    height:450px;
+}
+/*aboutme*/
+/*education*/
+.education .card{
+   
+    height:300px;
+}
+/*education*/
+/*skills starts here*/
+
+/*skills ends here*/
+/*contactme*/
+.contactme{
+     position:relative;
+}
+
+.contact-links{
+    position: absolute;
+    left:50%;
+    transform:translate(-50%,-30%) ;
+}
+
+/*contactme*/
+
+
+
+

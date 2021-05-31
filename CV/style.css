@@ -1,0 +1,448 @@
+*{
+   box-sizing: border-box;
+   font-family: 'Newsreader', serif;
+}
+body{
+    margin: 0;
+}
+
+a{
+    color:white;
+    padding:15px;
+    font-size: 1.2rem;
+    text-decoration: none;
+}
+
+body{
+
+    background-color: whitesmoke;
+}
+
+[class*="col-"]{
+    float:left;
+    padding:10px;
+}
+[class*="col-"]{
+   width:100%
+}
+  
+.navbar{
+    background-color:peru;
+    padding:1% 7%;
+    text-align: center;
+}
+.navbar-menu{
+    display:flex;
+    flex-direction: column;
+    text-transform: uppercase;
+}
+
+.navbar-menu a{
+    background-color: rgba(128, 0, 32, 0.774);
+    border-radius: 15px;
+    margin: 7px 0px;
+    padding:10px;
+ }
+
+.navbar-menu a:hover{
+    background-color: gray;
+    
+ }
+ a .cv-button{
+    background-color: slategray;
+    border:none;
+    border-radius: 12px;
+    padding: 12px;
+    font-size: 1rem;
+}
+ .navbar::after{
+    content:'';
+    display: table;
+    clear:both;
+}
+/*profile designs here*/
+.profile{
+    background-color:peru;
+    padding:1% 7%;
+    text-align: center;
+}
+.profile-desc{
+    display:flex;
+    flex-direction:column;
+    text-transform: uppercase;
+
+}
+
+.profile-desc img{
+    clip-path: circle();
+    border-radius: 15px;
+    margin: 7px 0px;
+    padding:10px;
+     
+ }
+
+
+ .profile::after{
+    content:'';
+    display: table;
+    clear:both;
+}
+
+p{
+    font-size:1.1rem;
+    text-align: justify;
+}
+/*profile ends here*/
+/*about me designs here*/
+.aboutme .card{
+    background-color:peru;
+    border-radius: 5px;
+    padding:10px;
+    transition: 0.3s;
+    height:600px;
+}
+
+.aboutme .card:hover{
+   box-shadow:0 4px 8px 5px black ;
+}
+.card-icon{
+    text-align: center;
+}
+
+.card-icon img{
+    margin-top: 20px;
+    width:80px;
+}
+.card-title h2{
+    background-color:rgb(63, 116, 133);
+    padding:10px;
+    text-align: center;
+}
+li{
+    text-align: center;
+    font-size: 1.2rem;
+}
+p{
+    color:floralwhite;
+    text-align: center;
+}
+
+.cv-button{
+    background-color: slategray;
+    border:none;
+    border-radius: 12px;
+    padding: 5px;
+    font-size: 1rem;
+}
+.aboutme::after{
+    content:'';
+    display: table;
+    clear:both;
+}
+
+/*about me ends here*/
+/*education starts here*/
+
+.education .card{
+    background-color:peru;
+    border-radius: 5px;
+    padding:10px;
+    transition: 0.3s;
+    height:350px;
+}
+
+.education .card:hover{
+   box-shadow:0 4px 8px 5px black ;
+}
+.card-icon{
+    text-align: center;
+}
+
+.card-icon img{
+    margin-top: 20px;
+    width:80px;
+}
+.card-title h2{
+    background-color:rgb(63, 116, 133);
+    padding:10px;
+    text-align: center;
+}
+li{
+    text-align: center;
+    font-size: 1.2rem;
+    list-style: none;
+}
+.education::after{
+    content:'';
+    display: table;
+    clear:both;
+}
+/*education ends here*/
+/*skills starts here*/
+.skills .card{
+    background-color:peru;
+    border-radius: 5px;
+    padding:10px;
+    transition: 0.3s;
+    height:600px;
+}
+
+.skills .card:hover{
+   box-shadow:0 4px 8px 5px black ;
+}
+.card-icon{
+    text-align: center;
+}
+
+.card-icon img{
+    margin-top: 20px;
+    width:80px;
+}
+.skills-container li{
+    list-style: none;
+    font-weight: bolder;
+    margin: 10px 10px;
+    position: relative;
+    text-transform: uppercase;
+    text-align: left;
+}
+.bar{
+    background: cadetblue;
+    display: block;
+    height: 20px;
+    border:1px solid rgba(1, 31, 22, 0.911);
+    border-radius: 1000px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(8, 1, 1, 0.918),0 1px 2px rgba(0, 5, 4, 0.863);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,.1);
+}
+.bar:hover{
+    box-shadow: 0 14px 28px rgba(8,1,1,0.918),0 10px 10px rgba(0,5,4,0.836);
+}
+.bar span{
+    height:20px;
+    float:left;
+    background: linear-gradient(135deg,rgba(0, 75, 236, 0.808)0%,rgba(38, 0, 252, 0.904));
+}
+.HTML{
+    width:90%;
+    animation: HTML 3s;
+}
+.CSS{
+    width:80%;
+    animation: CSS 3s;
+}
+.JavaScript{
+    width:70%;
+    animation: JavaScript 3s;
+}
+.JQuery{
+    width:70%;
+    animation: JQuery 3s;
+}
+.GitHub{
+    width:90%;
+    animation: GitHub 3s;
+}
+.C{
+    width:95%;
+    animation: C 3s;
+}
+.Adobe-Photoshop{
+    width:90%;
+    animation: Adobe-Photoshop 3s;
+}
+.Data-Structures{
+    width:80%;
+    animation: Data-Structures 3s;
+}
+
+@keyframes HTML{
+    0%{
+        width:0%;
+    }
+   100%{
+        width:90%;
+   }
+}
+@keyframes CSS{
+    0%{
+        width:0%;
+    }
+   100%{
+        width:80%;
+   }
+}
+@keyframes JavaScript{
+    0%{
+        width:0%;
+    }
+   100%{
+        width:70%;
+   }
+}
+@keyframes JQuery{
+    0%{
+        width:0%;
+    }
+   100%{
+        width:70%;
+   }
+}
+@keyframes GitHub{
+    0%{
+        width:0%;
+    }
+   100%{
+        width:90%;
+   }
+}
+@keyframes C{
+    0%{
+        width:0%;
+    }
+   100%{
+        width:95%;
+   }
+}
+@keyframes Adobe-Photoshop{
+    0%{
+        width:0%;
+    }
+   100%{
+        width:90%;
+   }
+}
+@keyframes Data-Structures{
+    0%{
+        width:0%;
+    }
+   100%{
+        width:80%;
+   }
+}
+
+.skills::after{
+    content:'';
+    display: table;
+    clear:both;
+}
+
+
+
+/*skills ends here*/
+/*online contest*/
+.onlinecontest .card{
+    background-color:peru;
+    border-radius: 5px;
+    padding:10px;
+    transition: 0.3s;
+    height:200px;
+}
+
+.onlinecontest .card:hover{
+   box-shadow:0 4px 8px 5px black ;
+}
+li{
+    text-align: center;
+    font-size: 1.2rem;
+    list-style: none;
+}
+.onlinecontest::after{
+    content:'';
+    display: table;
+    clear:both;
+}
+/*online contest*/
+
+/*--contect me--*/
+.contactme .card{
+    background-color:peru;
+    border-radius: 5px;
+    padding:10px;
+    transition: 0.3s;
+    height:250px;
+}
+
+.contactme .card:hover{
+   box-shadow:0 4px 8px 5px black ;
+}
+.card-icon{
+    text-align: center;
+}
+
+.card-icon img{
+    margin-top: 20px;
+    width:80px;
+}
+.contact-links .btn{
+    border:none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 32px;
+    padding:5px;
+    margin:10px;
+    width:50px;
+}
+.btn:hover{
+    background-color: dimgrey;
+}
+
+.contact-links .btn1{
+    border:none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 32px;
+    padding:5px;
+    margin:10px;
+    width:50px;
+}
+.btn1:hover{
+    background-color: dimgrey;
+}
+
+.contact-links .btn2{
+    border:none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 32px;
+    padding:5px;
+    margin:10px;
+    width:50px;
+}
+.btn2:hover{
+    background-color: dimgrey;
+}
+
+.contact-links .btn3{
+    border:none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 32px;
+    padding:5px;
+    margin:10px;
+    width:50px;
+}
+.btn3:hover{
+    background-color: dimgrey;
+}
+
+.contact-links .btn4{
+    border:none;
+    border-radius: 25px;
+    cursor: pointer;
+    font-size: 32px;
+    padding:5px;
+    margin:10px;
+    width:50px;
+}
+.btn4:hover{
+    background-color: dimgrey;
+}
+
+.contactme::after{
+    content:'';
+    display: table;
+    clear:both;
+}
+/*--contect me--*/
